@@ -1,3 +1,7 @@
-This is my first file
-Add some text
-More rows
+This is my first file that i have made some changes to
+
+Add some text so it is modified
+
+More rows in the modified file
+
+added some changes
